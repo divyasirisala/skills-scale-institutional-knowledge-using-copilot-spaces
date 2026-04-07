@@ -74,6 +74,52 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Coordination via project boards and meeting facilitation
 
 ---
+## New/Refined Roles
+
+### Release Manager
+**Responsibilities**:
+- Coordinate release readiness
+- Liaise between engineering, QA, and customer-facing teams
+- Ensure release documentation and sign-off
+
+**Interactions**:
+- Works with Project Manager, QA Lead, Product Owner
+
+### Communications Lead
+**Responsibilities**:
+- Owns project communications (internal/external)
+- Sends change notices, project updates
+- Keeps all stakeholders informed
+
+**Interactions**:
+- Works with Project Manager, all team members
+
+### Project Auditor
+**Responsibilities**:
+- Audits milestones, deliverables, compliance
+- Reports findings for continuous improvement
+
+**Interactions**:
+- Coordinates with all process owners
+
+### Customer Success Partner
+**Responsibilities**:
+- Brings customer needs to the team
+- Clarifies requirements and feedback
+- Ensures post-release satisfaction
+
+**Interactions**:
+- Connects Product Owner, Engineering, Customer
+
+<!-- If missing, add a checklist template -->
+---
+
+## Onboarding Checklist for New Project Personas
+
+- [ ] Review assigned responsibilities
+- [ ] Meet all primary role contacts
+- [ ] Understand communications cadence
+- [ ] Confirm escalation/decision paths
 
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
